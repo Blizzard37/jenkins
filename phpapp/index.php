@@ -60,7 +60,7 @@
       <thead>
         <tr>
           <th scope="col">Course ID</th>
-          <th scope="col">Course Name</th>
+          <th scope="col">Name</th>
           <th scope="col">Rating</th>            
         </tr>
       </thead>
